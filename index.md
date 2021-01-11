@@ -41,6 +41,5 @@ function showDivs(n) {
       <a href="00857124+00857024.pptx" shape="rect">說明文件</a>
     </div> 
  </div>
-</body>
-</html> 
+
 
