@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <title>fooooods</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -39,7 +38,7 @@ function showDivs(n) {
 </script>
  <div id="footerWrapper"> 
     <div id="footer"> 
-      <a href="B98570016.pptx" shape="rect">說明文件</a>
+      <a href="00857124+00857024.pptx" shape="rect">說明文件</a>
     </div> 
  </div>
 </body>
