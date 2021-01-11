@@ -1,0 +1,85 @@
+body {
+  background-image: url("https://png.pngtree.com/thumb_back/fw800/back_our/20190625/ourmid/pngtree-simple-small-fresh-colorful-watercolor-corporate-ppt-background-image_260240.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+  text-align:center;
+}
+a {
+    text-decoration:none;
+}
+h1{
+  color:tomato;
+}
+h2
+{
+  font-size:45px;
+  text-align: center;
+  color:black;
+}
+p {   width:35%;
+     height:300px;
+     left:8%;
+      float:left; 
+      color:black;
+     font-size:20px;
+     position:relative;
+     text-align:justify;
+     box-sizing:border-box;
+     font-weight: bold;
+}
+.title {
+	font-size: 40px;
+	font-style: normal;
+	color: #FFFFFF;
+	font-weight: bold;
+}		
+/* Next & previous buttons */
+.w3-btn-floating {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  padding: 16px;
+  margin-top: -22px;
+  color: black;
+  font-weight: bold;
+  font-size: 30px;
+  transition: 0.6s ease;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+}
+.w3-btn-floating:hover{
+  background-color: #f1f1f1;
+  color: black;
+}	
+.navbar {
+	z-index:5;
+    overflow: hidden;
+    background-color: #9D9D9D;
+}
+.navbar a {
+    float: right;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 20px;
+    text-decoration: none;
+}
+
+/* Right-aligned link */
+.navbar a.right {
+    float: right;
+}
+
+/* Change color on hover */
+.navbar a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+#pic {
+  text-align: center;
+  width: 600px;
+  height: 600px;
+}
