@@ -3,6 +3,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="style.css">
 <body>
+  <h2>基隆美食<h2>
 <div class="w3-content" style="max-width:800px;position:relative;margin-left: auto; margin-right: auto;">
 
 <a href="page2.html"><img class="mySlides" src="https://cdn.walkerland.com.tw/images/upload/poi/p27177/m25490/d3b0cb3e0c093b0d00f872d23ed87d6ca519c5d6.jpg" style="width:100%;height:80%" title="阿華炒麵"><br></a>
